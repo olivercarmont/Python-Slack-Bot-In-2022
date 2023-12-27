@@ -17,7 +17,7 @@ Welcome to this step-by-step guide on creating your first Python Slack Bot! 🤖
 6. In VS Code, create a new folder for your project.
 7. Inside the folder, create two files: "main.py" and ".env"
 
-### 3 - Adding Bot Token to .env:**
+### 3 - Adding Bot Token to .env:
 8. Copy the "Bot User OAuth Token" from Slack.
 9. Open ".env" and paste the token as follows:
  ```
