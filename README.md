@@ -1,9 +1,11 @@
 # How to Make a Python Slack Bot in 2022 🤖💛 <br />
+
+> **About Myself**: 🤖 I'm an aspiring ML Engineer sharing my learnings on ML/AI on [**YouTube!**](https://www.youtube.com/@olivercarmont) 🎥❤️ <br />
+
 ### - Overview -
 Welcome to this step-by-step guide on creating your first Python Slack Bot! 🤖💙 If you prefer video format, check out the tutorial on [**YouTube**](https://www.youtube.com/watch?v=DyzNPAuGtcU&ab_channel=OliverCarmont) or [**Medium**](https://medium.com/@olivercarmont/how-to-make-a-simple-python-slack-bot-828d4a2f982c).
 <br />
-> **About Myself**: 🤖 I'm an aspiring ML Engineer sharing my learnings on ML/AI on [**YouTube!**](https://www.youtube.com/@olivercarmont) 🎥❤️ 
-<br />
+
 ### 1 - Setting Up Your Project:
 1. Go to [api.slack.com](https://api.slack.com) and click “Your apps” 📱
 2. Select “Create an App” ➕ and choose “From Scratch” to name your bot 🔡
