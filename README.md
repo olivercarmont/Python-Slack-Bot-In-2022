@@ -46,4 +46,4 @@ Welcome to this step-by-step guide on creating your first Python Slack Bot! 🤖
 17. Check Slack for a notification from your bot.
 
 ### That's it! 🎊
-Hope you found this tutorial useful. Make sure to subscribe to my YouTube channel for more updates!
+Hope you found this tutorial useful. Make sure to subscribe to my [**YouTube channel**](https://www.youtube.com/@olivercarmont) for more updates!
