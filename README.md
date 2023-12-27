@@ -1,5 +1,4 @@
-# How to Make a Python Slack Bot in 2022 🤖💛
-<br />
+# How to Make a Python Slack Bot in 2022 🤖💛 <br />
 ### - Overview -
 Welcome to this step-by-step guide on creating your first Python Slack Bot! 🤖💙 If you prefer video format, check out the tutorial on [**YouTube**](https://www.youtube.com/watch?v=DyzNPAuGtcU&ab_channel=OliverCarmont) or [**Medium**](https://medium.com/@olivercarmont/how-to-make-a-simple-python-slack-bot-828d4a2f982c).
 <br />
